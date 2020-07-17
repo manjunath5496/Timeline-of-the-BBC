@@ -225,7 +225,7 @@
 <li><strong>1947</strong>
 <ul>
 <li>7 October &ndash;&nbsp;<a title="Adelaide Hall" href="https://en.wikipedia.org/wiki/Adelaide_Hall">Adelaide Hall</a>&nbsp;singing at a RadiOlympia variety show is the oldest surviving&nbsp;<a class="mw-redirect" title="Telerecording" href="https://en.wikipedia.org/wiki/Telerecording">telerecorded</a>&nbsp;programme in Britain.</li>
-<li>9 November &ndash; First use of telerecording of an outside broadcast: the Service of Remembrance from the Cenotaph is televised live, and a telerecording shown that evening.<sup id="cite_ref-Shagawat_10-1" class="reference"><a href="https://en.wikipedia.org/wiki/Timeline_of_the_BBC#cite_note-Shagawat-10">[10]</a></sup></li>
+<li>9 November &ndash; First use of telerecording of an outside broadcast: the Service of Remembrance from the Cenotaph is televised live, and a telerecording shown that evening.</li>
 <li>20 November &ndash; The&nbsp;<a class="mw-redirect" title="Wedding of Princess Elizabeth and Philip Mountbatten, Duke of Edinburgh" href="https://en.wikipedia.org/wiki/Wedding_of_Princess_Elizabeth_and_Philip_Mountbatten,_Duke_of_Edinburgh">wedding of Princess Elizabeth and Philip Mountbatten, Duke of Edinburgh</a>&nbsp;is televised by the BBC.&nbsp;It is watched by an estimated 400,000 viewers.</li>
 </ul>
 </li>
